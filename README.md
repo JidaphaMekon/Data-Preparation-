@@ -5,5 +5,6 @@ Preparation Notes for a Tutoring Session with Advisor
 ![Mermaid Chart - Create complex, visual diagrams with text  A smarter way of creating diagrams -2025-06-15-185029](https://github.com/user-attachments/assets/5101eb8c-4377-42ca-bc9c-fa1870d05ad5)
 
 https://drive.google.com/drive/folders/1zCldQwwh0KgpB8dDUCOjZMWiDEMWRhvO?usp=sharing
+<img src="diagra![Pic](https://github.com/user-attachments/assets/e7fad808-4b93-4380-9a58-d45fec0bd9c6)
+m.png" width="600"/>
 
-![Mermaid Chart - Create complex, visual diagrams with text  A smarter way of creating diagrams -2025-06-16-015104](https://github.com/user-attachments/assets/9624c904-4187-4550-9fe0-e1e9b59d48d0)
