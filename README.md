@@ -1,7 +1,8 @@
 # Data-Preparation- ทดสอบสำหรับวิจัย 
 Preparation Notes for a Tutoring Session with Advisor
 
-![Uploading Flow Chart-Thesis (1).jpg…]()
+![Uploading Flow Chart-Thesis (1).jpg
+
 
 ![Mermaid Chart - Create complex, visual diagrams with text  A smarter way of creating diagrams -2025-06-15-185029](https://github.com/user-attachments/assets/5101eb8c-4377-42ca-bc9c-fa1870d05ad5)
 
